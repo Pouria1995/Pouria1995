@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pouria1995
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning Django
-- 🤐 I’m looking to collaborate on backend website 
+
 - 📫 emai: pouria-python@protonmail.com
 
 <!---
