@@ -1,4 +1,6 @@
-
+Backend developer
+intern Ai
+still learning network 
 - 📫 email: pouria-python@protonmail.com
 - My_website: www.pouriahajipoor.ir
 <!---
