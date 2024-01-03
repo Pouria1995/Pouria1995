@@ -1,6 +1,5 @@
 -Backend developer
 -network engineer 
--data science
 -learning ML
 - 📫 contact_me : pouria-python@protonmail.com
 - My_blog: www.pouriahajipoor.ir
